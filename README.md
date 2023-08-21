@@ -3,6 +3,8 @@
 
 Repository for me to test
 
+It travels here and it travels far. 
+
 
 ## This is a cheat sheet
 
@@ -12,5 +14,5 @@ Repository for me to test
 
 [Click here for the big red car](HTTP://www.youtube.com)
 
-![Here is a nice picture of the big red car] (HTTP://www.getty.com)
+![Here is a nice picture of the big red car] ((https://sportscarhangar.com.au/uploads/images/header/_header/sydney-supercar-hire.jpg)https://sportscarhangar.com.au/uploads/images/header/_header/sydney-supercar-hire.jpg)
 
