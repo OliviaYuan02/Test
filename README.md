@@ -14,5 +14,5 @@ It travels here and it travels far.
 
 [Click here for the big red car](HTTP://www.youtube.com)
 
-![ Here is a nice picture of the big red car ] (https://sportscarhangar.com.au/uploads/images/header/_header/sydney-supercar-hire.jpg)
+![ Here is a nice picture of the big red car ](https://sportscarhangar.com.au/uploads/images/header/_header/sydney-supercar-hire.jpg)
 
